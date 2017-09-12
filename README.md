@@ -15,7 +15,7 @@
 
 请在[这里](https://github.com/hltj/kotlin-reference-chinese/issues)反馈问题。
 
-欢迎关注我的博客 https://hltj.me/ 以及公众号与微博：
+欢迎关注我的博客《灰蓝时光》（[https://hltj.me/](https://hltj.me/)）以及公众号与微博：
 
 | ![wechat_qr.png](/assets/wechat_qr.png) | ![weibo_qr.png](/assets/weibo_qr.png) |
 |:------:|:----:|
